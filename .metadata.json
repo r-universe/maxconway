@@ -1,0 +1,10 @@
+[
+  {
+    "package": "fbar",
+    "oncran": true
+  },
+  {
+    "package": "gsheet",
+    "oncran": true
+  }
+]
