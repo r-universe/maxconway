@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fbar"]
-	path = fbar
-	url = https://github.com/maxconway/fbar
-	shallow = true
-	registered = true
 [submodule "gsheet"]
 	path = gsheet
 	url = https://github.com/maxconway/gsheet
+	shallow = true
+	registered = true
+[submodule "fbar"]
+	path = fbar
+	url = https://github.com/maxconway/fbar
 	shallow = true
 	registered = true
