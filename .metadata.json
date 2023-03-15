@@ -1,5 +1,9 @@
 [
   {
+    "package": "adaptalint",
+    "oncran": true
+  },
+  {
     "package": "fbar",
     "oncran": true
   },
